@@ -1,5 +1,5 @@
 # 3dTurtle
-!()[https://github.com/manthanabc/3dTurtle/blob/main/outputs/3dgif.gif]
+![](https://github.com/manthanabc/3dTurtle/blob/main/outputs/3dgif.gif)
 A small 3d renderer using turtle.
 
 # Usage
